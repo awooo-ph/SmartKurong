@@ -328,3 +328,11 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+BalaySaManok/__vm/.BalaySaManok.vsarduino.h
+BalaySaManok/__vm/Compile.vmps.xml
+BalaySaManok/__vm/Configuration.Release.vmps.xml
+BalaySaManok/__vm/Upload.vmps.xml
+GUI/__vm/.GUI.vsarduino.h
+GUI/__vm/Compile.vmps.xml
+GUI/__vm/Configuration.Release.vmps.xml
+GUI/__vm/Upload.vmps.xml
